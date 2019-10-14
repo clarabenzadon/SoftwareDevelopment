@@ -7,4 +7,4 @@ This is just a reference to show the Markdown language as instructed.
 
 [Here are some cute animal videos](https://www.youtube.com/watch?v=C9OMAX91oyw&t=1s)
 
-![Here is an a cute doggo -- Baby Australian Shepered](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjcj8DwhJvlAhWtzoUKHUF7Ch8QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinterest.com%2Foliviashannon05%2F&psig=AOvVaw0i65UpyiHVePumfx2DDnYv&ust=1571117999150219)
+![Here is an a cute doggo -- Baby Australian Shepered](http://7desktopthemes.com/images/australian-shepherd-puppies-blue-merle-wallpaper-4.jpg)
